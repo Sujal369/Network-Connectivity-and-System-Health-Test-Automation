@@ -1,0 +1,5 @@
+2025-01-11 14:29:36 - Network Connectivity - Pass - Internet Connectivity Test
+2025-01-11 14:29:36 - Bluetooth Device Discovery - Fail - Error scanning Bluetooth devices: [WinError -2147020577] The device is not ready for use
+2025-01-11 14:29:36 - CPU Usage - Pass - CPU Usage: 38.6%
+2025-01-11 14:29:36 - Memory Usage - Pass - Memory Usage: 79.4%
+2025-01-11 14:29:36 - Disk Usage - Fail - Disk Usage: Error: argument 1 (impossible<bad format char>)%
